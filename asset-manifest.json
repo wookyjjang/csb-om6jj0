@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://wookyjjang.github.io/csb-om6jj0/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://wookyjjang.github.io/csb-om6jj0/static/js/main.ce45dd3b.chunk.js",
+    "main.js.map": "https://wookyjjang.github.io/csb-om6jj0/static/js/main.ce45dd3b.chunk.js.map",
+    "runtime-main.js": "https://wookyjjang.github.io/csb-om6jj0/static/js/runtime-main.76676f9a.js",
+    "runtime-main.js.map": "https://wookyjjang.github.io/csb-om6jj0/static/js/runtime-main.76676f9a.js.map",
+    "static/js/2.cc863786.chunk.js": "https://wookyjjang.github.io/csb-om6jj0/static/js/2.cc863786.chunk.js",
+    "static/js/2.cc863786.chunk.js.map": "https://wookyjjang.github.io/csb-om6jj0/static/js/2.cc863786.chunk.js.map",
+    "index.html": "https://wookyjjang.github.io/csb-om6jj0/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://wookyjjang.github.io/csb-om6jj0/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.cc863786.chunk.js.LICENSE.txt": "https://wookyjjang.github.io/csb-om6jj0/static/js/2.cc863786.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76676f9a.js",
+    "static/js/2.cc863786.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ce45dd3b.chunk.js"
+  ]
+}
